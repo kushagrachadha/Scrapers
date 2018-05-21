@@ -1,2 +1,2 @@
 # Scrapers
-Collection of Scrapers Designed
+Collection of Scrapers Designed for personal data collections.
